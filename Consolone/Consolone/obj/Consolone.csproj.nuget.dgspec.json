@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jochc\\Documents\\projects\\meepo\\Consolone\\Consolone\\Consolone.csproj": {}
+    "C:\\Users\\jochc\\Documents\\projects\\Consolone\\Consolone\\Consolone\\Consolone.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jochc\\Documents\\projects\\meepo\\Consolone\\Consolone\\Consolone.csproj": {
+    "C:\\Users\\jochc\\Documents\\projects\\Consolone\\Consolone\\Consolone\\Consolone.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jochc\\Documents\\projects\\meepo\\Consolone\\Consolone\\Consolone.csproj",
+        "projectUniqueName": "C:\\Users\\jochc\\Documents\\projects\\Consolone\\Consolone\\Consolone\\Consolone.csproj",
         "projectName": "Consolone",
-        "projectPath": "C:\\Users\\jochc\\Documents\\projects\\meepo\\Consolone\\Consolone\\Consolone.csproj",
+        "projectPath": "C:\\Users\\jochc\\Documents\\projects\\Consolone\\Consolone\\Consolone\\Consolone.csproj",
         "packagesPath": "C:\\Users\\jochc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jochc\\Documents\\projects\\meepo\\Consolone\\Consolone\\obj\\",
+        "outputPath": "C:\\Users\\jochc\\Documents\\projects\\Consolone\\Consolone\\Consolone\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jochc\\AppData\\Roaming\\NuGet\\NuGet.Config",
