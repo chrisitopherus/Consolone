@@ -4,8 +4,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Consolone;
+namespace Consolone.Systems.Time;
 
-public class Animation
+public class Timer
 {
 }

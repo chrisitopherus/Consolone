@@ -4,8 +4,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Consolone;
+namespace Consolone.Systems.StateManagement;
 
-public class Sprite
+internal class StateManager
 {
 }

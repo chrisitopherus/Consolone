@@ -4,8 +4,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Consolone;
+namespace Consolone.UI;
 
-public class Label
+public class Menu
 {
 }

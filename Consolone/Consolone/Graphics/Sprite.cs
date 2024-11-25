@@ -4,8 +4,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Consolone;
+namespace Consolone.Graphics;
 
-public interface ICollidable
+public class Sprite
 {
 }

@@ -4,8 +4,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Consolone;
+namespace Consolone.Systems.CollisionDetection.CollisionShapes;
 
-internal class TimerManager
+public class RectangleCollisionShape : CollisionShape
 {
 }

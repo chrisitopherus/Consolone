@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Consolone")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+da58047a2f30bf876716ec035d3fef416e4c95d0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b4ba5aec4e2d52f76c163c3b6fd5804ec77fbd8a")]
 [assembly: System.Reflection.AssemblyProductAttribute("Consolone")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Consolone")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
